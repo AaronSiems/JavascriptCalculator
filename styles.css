@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+    color: whitesmoke;
+    text-align: center;
+}
+
+form{
+    line-height: 50px;
+}
+
+input[type=number]{
+    width: 80px;
+}
+
+input {
+    text-align: right;
+}
